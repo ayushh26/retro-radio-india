@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Kya Hua Tera Wada",
+    "artist": "Mohammed Rafi",
+    "movie": "Hum Kisise Kum Naheen",
+    "year": 1977,
+    "language": "Hindi",
+    "youtubeVideoId": "fyZ-sOHj-Vg",
+    "duration": 210,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Gulabi Aankhen",
+    "artist": "Mohammed Rafi",
+    "movie": "The Train",
+    "year": 1970,
+    "language": "Hindi",
+    "youtubeVideoId": "6Z3DO-OFIjQ",
+    "duration": 218,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Yeh Jo Mohabbat Hai",
+    "artist": "Kishore Kumar",
+    "movie": "Kati Patang",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "XxrEISBLhY0",
+    "duration": 246,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Chura Liya Hai Tumne Jo Dil Ko",
+    "artist": "Asha Bhosle, Mohammed Rafi",
+    "movie": "Yaadon Ki Baaraat",
+    "year": 1973,
+    "language": "Hindi",
+    "youtubeVideoId": "seFeZOgyFsc",
+    "duration": 269,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Aaja Aaja Main Hoon Pyar Tera",
+    "artist": "Mohammed Rafi, Asha Bhosle",
+    "movie": "Teesri Manzil",
+    "year": 1966,
+    "language": "Hindi",
+    "youtubeVideoId": "giVM3P2YA58",
+    "duration": 276,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "O Haseena Zulfonwali Jane Jahan",
+    "artist": "Mohammed Rafi, Asha Bhosle",
+    "movie": "Teesri Manzil",
+    "year": 1966,
+    "language": "Hindi",
+    "youtubeVideoId": "TfTpZVgc05o",
+    "duration": 330,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Tumne Mujhe Dekha Hokar Meherban",
+    "artist": "Mohammed Rafi",
+    "movie": "Teesri Manzil",
+    "year": 1966,
+    "language": "Hindi",
+    "youtubeVideoId": "hJO5G8q202s",
+    "duration": 274,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Deewana Mujh Sa Nahin",
+    "artist": "Mohammed Rafi",
+    "movie": "Teesri Manzil",
+    "year": 1966,
+    "language": "Hindi",
+    "youtubeVideoId": "bzg_UveiNMk",
+    "duration": 208,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Bade Achhe Lagte Hain",
+    "artist": "Amit Kumar",
+    "movie": "Balika Badhu",
+    "year": 1976,
+    "language": "Hindi",
+    "youtubeVideoId": "lplaAZBWiqY",
+    "duration": 274,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Piya Tu Ab To Aaja",
+    "artist": "Asha Bhosle, R. D. Burman",
+    "movie": "Caravan",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "46GGxF_Bwhg",
+    "duration": 312,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Dum Maro Dum",
+    "artist": "Asha Bhosle, Usha Iyer, R. D. Burman",
+    "movie": "Hare Rama Hare Krishna",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "kOrRYDJ4AuY",
+    "duration": 190,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Aaja Piya Tohe Pyar Doon",
+    "artist": "Lata Mangeshkar",
+    "movie": "Baharon Ke Sapne",
+    "year": 1967,
+    "language": "Hindi",
+    "youtubeVideoId": "VPfhI-6UnUg",
+    "duration": 255,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "O Mere Sona Re",
+    "artist": "Asha Bhosle, Mohammed Rafi",
+    "movie": "Teesri Manzil",
+    "year": 1966,
+    "language": "Hindi",
+    "youtubeVideoId": "C4NAuQmnuMY",
+    "duration": 320,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Bahon Mein Chale Aao",
+    "artist": "Lata Mangeshkar",
+    "movie": "Anamika",
+    "year": 1973,
+    "language": "Hindi",
+    "youtubeVideoId": "_uzRGxe0LUs",
+    "duration": 275,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  },
+  {
+    "title": "Tum Bin Jaoon Kahan",
+    "artist": "Mohammed Rafi",
+    "movie": "Pyar Ka Mausam",
+    "year": 1969,
+    "language": "Hindi",
+    "youtubeVideoId": "ECyJkf0cBM4",
+    "duration": 232,
+    "themes": ["papa-ke-gaane"],
+    "isActive": true
+  }
+]

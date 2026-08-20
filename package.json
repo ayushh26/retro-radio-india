@@ -1,0 +1,23 @@
+{
+  "name": "retro-radio-india",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nostalgic Indian music/radio web application",
+  "scripts": {
+    "install:all": "cd frontend && npm install && cd ../backend && npm install",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run start:dev",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "build": "npm run build:frontend && npm run build:backend",
+    "lint:frontend": "cd frontend && npm run lint",
+    "lint:backend": "cd backend && npm run lint",
+    "lint": "npm run lint:frontend && npm run lint:backend",
+    "test:backend": "cd backend && npm test",
+    "test:e2e": "cd backend && npm run test:e2e",
+    "seed": "cd backend && npm run seed",
+    "docker:up": "docker compose -f docker-compose.yml up -d",
+    "docker:down": "docker compose -f docker-compose.yml down",
+    "db:reset": "mongosh retro_radio_india --eval \"db.dropDatabase()\" && redis-cli FLUSHALL && npm run seed"
+  }
+}

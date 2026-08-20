@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Baazigar O Baazigar",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Baazigar",
+    "year": 1993,
+    "language": "Hindi",
+    "youtubeVideoId": "h30wUfOeKcY",
+    "duration": 449,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Ghoonghat Ki Aad Se",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Hum Hain Rahi Pyar Ke",
+    "year": 1993,
+    "language": "Hindi",
+    "youtubeVideoId": "xnhjxG79Ttc",
+    "duration": 333,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Saaton Janam Main Tere",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Dilwale",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "f0oiheLlFW4",
+    "duration": 351,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Aankhon Se Tune Kya Keh Diya",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Ghulam",
+    "year": 1998,
+    "language": "Hindi",
+    "youtubeVideoId": "4GQU2aaOXxM",
+    "duration": 324,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Chura Ke Dil Mera",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Main Khiladi Tu Anari",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "Yqj1_V90KJo",
+    "duration": 468,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Jaati Hoon Main",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Karan Arjun",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "l7iTcZ__Ejg",
+    "duration": 341,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Poocho Zara Poocho",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "movie": "Raja Hindustani",
+    "year": 1996,
+    "language": "Hindi",
+    "youtubeVideoId": "E6hDGOUOEi4",
+    "duration": 365,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Meri Mehbooba",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Pardes",
+    "year": 1997,
+    "language": "Hindi",
+    "youtubeVideoId": "k2CuG5E4OAo",
+    "duration": 418,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Kya Tum Mujhse Pyar Karte Ho",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Naajayaz",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "EhvoiXDAfhI",
+    "duration": 391,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Mujhse Mohabbat Ka Izhaar",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Hum Hain Rahi Pyar Ke",
+    "year": 1993,
+    "language": "Hindi",
+    "youtubeVideoId": "N0jnLZxYwYc",
+    "duration": 304,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Teri Chunariya",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Hello Brother",
+    "year": 1999,
+    "language": "Hindi",
+    "youtubeVideoId": "EktOvKQewyA",
+    "duration": 266,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Ek Din Aap",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Yes Boss",
+    "year": 1997,
+    "language": "Hindi",
+    "youtubeVideoId": "90Q5bMN6u2w",
+    "duration": 341,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Lal Lal Honthon Pe",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Naajayaz",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "vazTJdBaMEw",
+    "duration": 439,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Jeeta Tha Jiske Liye",
+    "artist": "Kumar Sanu, Alka Yagnik, Ajay Devgn",
+    "movie": "Dilwale",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "CTuvMubzXpU",
+    "duration": 459,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Tumsa Koi Pyaara",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Khuddar",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "3NWMK2MRqIk",
+    "duration": 350,
+    "themes": [
+      "raju-mistri"
+    ],
+    "isActive": true
+  }
+]

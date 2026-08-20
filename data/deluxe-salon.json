@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Aaj Pehli Baar Dil Ki Baat Ki Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Tadipaar",
+    "year": 1993,
+    "language": "Hindi",
+    "youtubeVideoId": "k3tpCyZLYR0",
+    "duration": 335,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Humko Sirf Tumse Pyar Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Barsaat",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "mUmRgBzzpyg",
+    "duration": 389,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Ab Hai Neend Kise Ab Hai Chain Kahan",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "movie": "Zamaana Deewana",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "BubSieBCR3M",
+    "duration": 330,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Tumsa Koi Pyara Koi Masoom Nahi Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Khuddar",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "m2hlQXGYIOY",
+    "duration": 360,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Love Hua",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Jaanam Samjha Karo",
+    "year": 1999,
+    "language": "Hindi",
+    "youtubeVideoId": "oJSQm5GCnHU",
+    "duration": 330,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "For Ever N' Ever",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Zamaana Deewana",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "IWRiaksSVw8",
+    "duration": 360,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Humein Tumse Pyar Kitna",
+    "artist": "Kishore Kumar",
+    "movie": "Kudrat",
+    "year": 1981,
+    "language": "Hindi",
+    "youtubeVideoId": "giLlKR4qNzE",
+    "duration": 278,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Pal Pal Dil Ke Paas",
+    "artist": "Kishore Kumar",
+    "movie": "Blackmail",
+    "year": 1973,
+    "language": "Hindi",
+    "youtubeVideoId": "Zn_I9NOd3bY",
+    "duration": 326,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "O Mere Dil Ke Chain",
+    "artist": "Kishore Kumar",
+    "movie": "Mere Jeevan Saathi",
+    "year": 1972,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 276,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Yeh Shaam Mastani",
+    "artist": "Kishore Kumar",
+    "movie": "Kati Patang",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 276,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Yeh Jo Mohabbat Hai",
+    "artist": "Kishore Kumar",
+    "movie": "Kati Patang",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 246,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Zindagi Ek Safar Hai Suhana",
+    "artist": "Kishore Kumar",
+    "movie": "Andaz",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 247,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Raat Kali Ek Khwab Mein Aayi",
+    "artist": "Kishore Kumar",
+    "movie": "Buddha Mil Gaya",
+    "year": 1971,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 227,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Koi Roko Na Diwane Ko",
+    "artist": "Kishore Kumar",
+    "movie": "Priyatama",
+    "year": 1977,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 271,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Koi Haseena Jab Rooth Jati Hai",
+    "artist": "Kishore Kumar",
+    "movie": "Sholay",
+    "year": 1975,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 273,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Pag Ghunghroo Baandh",
+    "artist": "Kishore Kumar",
+    "movie": "Namak Halaal",
+    "year": 1982,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 494,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Jahan Teri Yeh Nazar Hai",
+    "artist": "Kishore Kumar",
+    "movie": "Kaalia",
+    "year": 1981,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 314,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  },
+  {
+    "title": "Om Shanti Om",
+    "artist": "Kishore Kumar",
+    "movie": "Karz",
+    "year": 1980,
+    "language": "Hindi",
+    "youtubeVideoId": "",
+    "duration": 540,
+    "themes": ["deluxe-salon"],
+    "isActive": true
+  }
+]

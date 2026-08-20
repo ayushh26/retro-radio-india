@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Humko Sirf Tumse Pyar Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Barsaat",
+    "year": 1995,
+    "language": "Hindi",
+    "youtubeVideoId": "t8aOUxUpoeI",
+    "duration": 389,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Dil Tera Aashiq",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Dil Tera Aashiq",
+    "year": 1993,
+    "language": "Hindi",
+    "youtubeVideoId": "dX6jCQ6rc08",
+    "duration": 285,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Dekha Tujhe Toh",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Koyla",
+    "year": 1997,
+    "language": "Hindi",
+    "youtubeVideoId": "HrBo9GC8vTA",
+    "duration": 370,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Kahin Mujhe Pyar Hua To Nahin",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Rang",
+    "year": 1993,
+    "language": "Hindi",
+    "youtubeVideoId": "icqcSQ3s48E",
+    "duration": 423,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Do Dil Mil Rahe Hain",
+    "artist": "Kumar Sanu",
+    "movie": "Pardes",
+    "year": 1997,
+    "language": "Hindi",
+    "youtubeVideoId": "eKIpHujNdX0",
+    "duration": 337,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Ek Sanam Chahiye Aashiqui Ke Liye",
+    "artist": "Kumar Sanu",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "-8k-Teutjf4",
+    "duration": 373,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Kitna Haseen Chehra",
+    "artist": "Kumar Sanu",
+    "movie": "Dilwale",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "m_b3TwJegJ0",
+    "duration": 352,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Hothon Pe Bas",
+    "artist": "Lata Mangeshkar, Kumar Sanu",
+    "movie": "Yeh Dillagi",
+    "year": 1994,
+    "language": "Hindi",
+    "youtubeVideoId": "c-t4nE-KCU8",
+    "duration": 286,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Dil Ka Aalam",
+    "artist": "Kumar Sanu",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "BaAoZA0fup0",
+    "duration": 301,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Nazar Ke Samne",
+    "artist": "Kumar Sanu, Anuradha Paudwal",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "Fw9au12q_1Y",
+    "duration": 335,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Tu Meri Zindagi Hai",
+    "artist": "Kumar Sanu, Anuradha Paudwal",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "yxCJOJORwlA",
+    "duration": 285,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
+    "artist": "Kumar Sanu, Anuradha Paudwal",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "KeyfUuXPOcY",
+    "duration": 329,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Main Duniya Bhula Doonga",
+    "artist": "Kumar Sanu, Anuradha Paudwal",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "kGmEwa9HC2w",
+    "duration": 318,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Jaan-E-Jigar Jaaneman",
+    "artist": "Kumar Sanu, Anuradha Paudwal",
+    "movie": "Aashiqui",
+    "year": 1990,
+    "language": "Hindi",
+    "youtubeVideoId": "7kUlQYMg_l4",
+    "duration": 312,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Adayein Bhi Hain Mohabbat Bhi Hai",
+    "artist": "Kumar Sanu, Anuradha Paudwal",
+    "movie": "Dil Hai Ke Manta Nahin",
+    "year": 1991,
+    "language": "Hindi",
+    "youtubeVideoId": "Rj0tZSRr-qE",
+    "duration": 327,
+    "themes": [
+      "bus-driver"
+    ],
+    "isActive": true
+  }
+]

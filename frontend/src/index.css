@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Share+Tech+Mono&family=Kumar+One&display=swap');
+
+:root {
+  --sans: 'Outfit', system-ui, -apple-system, sans-serif;
+  --mono: 'Share Tech Mono', monospace;
+  --retro-display: 'Kumar One', cursive;
+
+  --text: #c4b5fd;
+  --text-h: #ffffff;
+  --bg: #09090b;
+  --border: #27272a;
+  
+  --primary: #aa3bff;
+  --accent: #aa3bff;
+  --accent-rgb: 170, 59, 255;
+  --shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.7);
+  
+  font: 16px/1.5 var(--sans);
+  color-scheme: dark;
+  color: var(--text);
+  background-color: var(--bg);
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #09090b;
+  color: #fafafa;
+  /* Prevent tap highlight on mobile */
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Minimum touch target size for all interactive elements */
+button {
+  touch-action: manipulation;
+  min-height: 36px;
+  min-width: 36px;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+/* CRT Screen Effects */
+.scanlines {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%,
+    rgba(0, 0, 0, 0.4) 50%
+  );
+  background-size: 100% 4px;
+}
+
+.bg-radial-vignette {
+  background: radial-gradient(circle, transparent 40%, rgba(0, 0, 0, 0.85) 100%);
+}
+
+.glass-reflection {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 55%);
+}
+
+/* Marquee Effect for Song Info */
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.animate-marquee {
+  display: inline-block;
+  white-space: nowrap;
+  animation: marquee 15s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Retro CRT static interference animation */
+@keyframes crt-static {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(100%); }
+}
+
+.crt-static-bar {
+  background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.08), transparent);
+  animation: crt-static 6s linear infinite;
+}
+
+/* LED Indicator Glow */
+.led-glow-green {
+  box-shadow: 0 0 10px #22c55e, 0 0 20px #22c55e;
+}
+.led-glow-red {
+  box-shadow: 0 0 10px #ef4444, 0 0 20px #ef4444;
+}
+
+/* Glassmorphism Classes */
+.glass-panel {
+  background: rgba(15, 15, 20, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+  background: rgba(20, 20, 25, 0.6);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  border-color: rgba(var(--accent-rgb), 0.4);
+  background: rgba(25, 25, 35, 0.7);
+  transform: translateY(-2px);
+}
+
+/* Custom Audio Slider Styles */
+input[type="range"].retro-slider {
+  -webkit-appearance: none;
+  width: 100%;
+  background: transparent;
+}
+
+input[type="range"].retro-slider:focus {
+  outline: none;
+}
+
+input[type="range"].retro-slider::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  background: #1e1b4b;
+  border-radius: 3px;
+  border: 1px solid #312e81;
+}
+
+input[type="range"].retro-slider::-webkit-slider-thumb {
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  background: var(--accent);
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -6px;
+  box-shadow: 0 0 8px var(--accent);
+  border: 1px solid #ffffff;
+}
+
+input[type="range"].retro-slider::-moz-range-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  background: #1e1b4b;
+  border-radius: 3px;
+  border: 1px solid #312e81;
+}
+
+input[type="range"].retro-slider::-moz-range-thumb {
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  background: var(--accent);
+  cursor: pointer;
+  box-shadow: 0 0 8px var(--accent);
+  border: 1px solid #ffffff;
+}
