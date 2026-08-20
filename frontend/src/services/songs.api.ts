@@ -28,4 +28,7 @@ export const songsApi = {
     return api.get<PaginatedSongs>(`/songs?${params.toString()}`);
   },
   getById: (id: string) => api.get<Song>(`/songs/${id}`),
+  create: (data: Partial<Song>) => api.post<Song>('/songs', data),
+  update: (id: string, data: Partial<Song>) => api.patch<Song>(`/songs/${id}`, data),
+  delete: (id: string) => api.delete<void>(`/songs/${id}`),
 };
