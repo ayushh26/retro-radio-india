@@ -5,6 +5,7 @@ coverage/
 .env.local
 playwright-report/
 test-results/
+.playwright-mcp/
 *.log
 .DS_Store
 .vscode/
